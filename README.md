@@ -4,7 +4,7 @@ Create virtual env:
 ```
 python3 -m venv .venv
 ```
-Activate virual env:
+Activate virtual env:
 ```
 source .venv/bin/activate
 ```
